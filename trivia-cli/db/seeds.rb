@@ -1,0 +1,31 @@
+User.create(name: "Ryan")
+User.create(name: "Tracie")
+User.create(name: "Danny")
+User.create(name: "Mason")
+User.create(name: "Andy")
+User.create(name: "Darrow")
+User.create(name: "Belinda")
+
+
+Question.create(question_text: "What is the capital of New York?", correct_answer: "Albany", incorrect_answer1: "New York City", incorrect_answer2: "Buffalo", incorrect_answer3: "Syracuse") 
+Question.create(question_text: "What is the name of Harry Potter's father?", correct_answer: "James Potter", incorrect_answer1: "Harry Potter", incorrect_answer2: "Rubius Potter", incorrect_answer3: "Edward Potter")
+Question.create(question_text: "Were did Kobe Bryant attend high school?", correct_answer: "Lower Merion", incorrect_answer1: "Oak Hill", incorrect_answer2: "Dematha", incorrect_answer3: "Lawrenceville")
+Question.create(question_text: "What year was the Declaration of Independence signed?", correct_answer: "1776", incorrect_answer1: "1786", incorrect_answer2: "1775", incorrect_answer3: "1770")
+Question.create(question_text: "What is the popular phrase coined by Evans Wang?", correct_answer: "Spicy", incorrect_answer1: "You're wrong!", incorrect_answer2: "Rad dude!", incorrect_answer3: "Wang city Wang city!")
+# Question.create(question_text: "What is the capital of New York?", correct_answer: "Albany", incorrect_answer1: "New York City", incorrect_answer2: "Buffalo", incorrect_answer3: "Syracuse")
+# Question.create(question_text: "What is the capital of New York?", correct_answer: "Albany", incorrect_answer1: "New York City", incorrect_answer2: "Buffalo", incorrect_answer3: "Syracuse")
+# Question.create(question_text: "What is the capital of New York?", correct_answer: "Albany", incorrect_answer1: "New York City", incorrect_answer2: "Buffalo", incorrect_answer3: "Syracuse")
+# Question.create(question_text: "What is the capital of New York?", correct_answer: "Albany", incorrect_answer1: "New York City", incorrect_answer2: "Buffalo", incorrect_answer3: "Syracuse")
+# Question.create(question_text: "What is the capital of New York?", correct_answer: "Albany", incorrect_answer1: "New York City", incorrect_answer2: "Buffalo", incorrect_answer3: "Syracuse")
+# Question.create(question_text: "What is the capital of New York?", correct_answer: "Albany", incorrect_answer1: "New York City", incorrect_answer2: "Buffalo", incorrect_answer3: "Syracuse")
+# Question.create(question_text: "What is the capital of New York?", correct_answer: "Albany", incorrect_answer1: "New York City", incorrect_answer2: "Buffalo", incorrect_answer3: "Syracuse")
+# Question.create(question_text: "What is the capital of New York?", correct_answer: "Albany", incorrect_answer1: "New York City", incorrect_answer2: "Buffalo", incorrect_answer3: "Syracuse")
+# Question.create(question_text: "What is the capital of New York?", correct_answer: "Albany", incorrect_answer1: "New York City", incorrect_answer2: "Buffalo", incorrect_answer3: "Syracuse")
+# Question.create(question_text: "What is the capital of New York?", correct_answer: "Albany", incorrect_answer1: "New York City", incorrect_answer2: "Buffalo", incorrect_answer3: "Syracuse")
+# Question.create(question_text: "What is the capital of New York?", correct_answer: "Albany", incorrect_answer1: "New York City", incorrect_answer2: "Buffalo", incorrect_answer3: "Syracuse")
+
+
+
+Game.create(user_id: 1, score: 5)
+Game.create(user_id: 2, score: 3)
+Game.create(user_id: 1, score: 7)
